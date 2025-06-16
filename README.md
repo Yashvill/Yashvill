@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yashvill
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Ml/AI
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning AI
 
 <!---
 Yashvill/Yashvill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
